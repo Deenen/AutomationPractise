@@ -45,8 +45,8 @@ It not only supports frontend UI testing, but also can be modified to do databas
 
 As mentioned in my email, when I was testing the website, it would sometimes become unstable and wouldn't load.\
 Here is a short video to demonstrate that the Framework is functional.\
-[![AutomationPractise Demo Video](https://github.com/Alimu-A/AutomationPractise/blob/master/AutomationPractise%20Demo.gif)](https://drive.google.com/file/d/1JmimGtpSOml6VJs3OQFvvqEhq18ZznHF/view?usp=sharing)
+[![AutomationPractise Demo Video](https://github.com/Deenen/AutomationPractise/blob/master/AutomationPractise%20Demo.gif)](https://drive.google.com/file/d/1JmimGtpSOml6VJs3OQFvvqEhq18ZznHF/view?usp=sharing)
 
 Here is the screenshot of a sample generated maven cucumber report.\
-![Automation Practise Generated sample Report](https://github.com/Alimu-A/AutomationPractise/blob/master/AutoamtionPractise%20Report.jpg)
+![Automation Practise Generated sample Report](https://github.com/Deenen/AutomationPractise/blob/master/AutoamtionPractise%20Report.jpg)
 
